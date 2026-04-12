@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou o kayky! 
 
-<!--
-**jkmacedo/jkmacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor em formação apaixonado por tecnologia, atualmente focado em transição de carreira para a área de desenvolvimento de softwere.
 
-Here are some ideas to get you started:
+### Habilidades e Estudos
+* **Linguagem:** Python, Javascript (Node.js)
+* **Banco de dados:** SQL
+* **conceitos:** Lógica de programação, Programação Orientada a Objeto (POO)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tragetória Profissional
+* Atualmente trabalho na **Nexct, do grupo Stefanini** onde desenvolvo soft skills em atendimento e processos.
+* Busco aplicar minha experiêcia em organização e resolução de problemas no do código.
+
+### Localização
+Campina Grande, PB - Brasil.
