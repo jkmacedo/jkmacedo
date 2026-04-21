@@ -20,4 +20,4 @@ Stats](https://github-readme-stats.vercel.app/api?username=jkmacedo&show_icons=t
 
 ## Linguagens mais usadas
 ![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jkmacedo&layout=compact)
+Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jkmacedo&layout=compact&langs_count=6)
