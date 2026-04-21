@@ -9,7 +9,7 @@ Sou um desenvolvedor em formação apaixonado por tecnologia, atualmente focado 
 
 ### Tragetória Profissional
 * Atualmente trabalho na **Nexct, do grupo Stefanini** onde desenvolvo soft skills em atendimento e processos.
-* Busco aplicar minha experiêcia em organização e resolução de problemas no do código.
+* Busco aplicar minha experiêcia em organização e resolução de problemas no código.
 
 ### Localização
 Campina Grande, PB - Brasil.
