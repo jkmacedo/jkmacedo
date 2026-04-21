@@ -13,3 +13,11 @@ Sou um desenvolvedor em formação apaixonado por tecnologia, atualmente focado 
 
 ### Localização
 Campina Grande, PB - Brasil.
+
+## Estatísticas
+![GitHub
+Stats](https://github-readme-stats.vercel.app/api?username=jkmacedo&show_icons=true&theme=radical)
+
+## Linguagens mais usadas
+![Top
+Langs](https://github-redame-stats.vercel.app/api/top-langs?username=jkmacedo&layout=compact)
