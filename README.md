@@ -1,5 +1,5 @@
 # Olá, eu sou o José Kayky! 👋
-### Desenvolvedor Back-End | Python • Node.js • SQL
+### Desenvolvedor Back-End | Python • SQL
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kayky-macedo-dev">
