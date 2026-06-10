@@ -15,7 +15,6 @@
 ## 🦁 Sobre Mim
 Sou um desenvolvedor focado em construir o "motor" das aplicações. Gosto de trabalhar com lógica, automação e bancos de dados. Atualmente, estou aprimorando minhas habilidades em arquitetura de sistemas e performance.
 
-- ⚡ **Foco atual:** Node.js
 - 🛠️ **Habilidades:** Python para automação/dados e SQL para gestão de banco de dados.
 - 🚀 **Objetivo:** Criar soluções escaláveis e eficientes.
 
@@ -29,9 +28,6 @@ Sou um desenvolvedor focado em construir o "motor" das aplicações. Gosto de tr
       <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
       <br>Python
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
-      <br>Node.js
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="SQL" />
