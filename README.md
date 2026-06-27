@@ -1,5 +1,5 @@
 # Olá, eu sou o José Kayky! 👋
-### Desenvolvedor Back-End | Python • SQL
+### Desenvolvedor Back-End | Python • SQL • C++
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kayky-macedo-dev">
@@ -36,6 +36,10 @@ Sou um desenvolvedor focado em construir o "motor" das aplicações. Gosto de tr
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
       <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=c++" width="40" height="40" alt="Git" />
+      <br>C++
     </td>
   </tr>
 </table>
