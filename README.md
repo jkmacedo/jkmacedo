@@ -38,7 +38,7 @@ Sou um desenvolvedor focado em construir o "motor" das aplicações. Gosto de tr
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++" />
       <br>C++
     </td>
   </tr>
